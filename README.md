@@ -1,5 +1,7 @@
 ## GoatLev
 
+![GoatLev image](https://lh6.googleusercontent.com/-A8qBNmxniLE/U6ttR-MlevI/AAAAAAAAAaQ/0J9w1dScqhA/w400/P1320856.JPG)
+
 The goal of this project is to develop a durable stand for milking goats while keeping material costs to a minimum.  It should be able to be produced with common garage tools and commonly available materials.
 
 ### How do I view the latest design?

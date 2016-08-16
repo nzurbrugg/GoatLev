@@ -1,10 +1,8 @@
-## GoatLev
+<img src="https://c3.staticflickr.com/9/8635/15774347810_e4dcf64b64_n.jpg">
 
-<a href="https://www.flickr.com/photos/27944464@N03/15774347810" title="P1320856 by nzurbrugg, on Flickr"><img src="https://farm9.staticflickr.com/8635/15774347810_e4dcf64b64_n.jpg" width="320" height="240" alt="P1320856"></a>
+Image of v0.1 being used at Shyre Farm.
 
-This is the latest design of the milking stand being used at Shyre Farm.
-
-### How do I view the latest design?
+### How to view the design
 Two methods are available:
 * Quick Method: Click on the .stl file above to view the rough 3D model.
 
